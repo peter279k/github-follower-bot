@@ -29,6 +29,8 @@ while True:
         response = requests.put(update_followed_user % (user), auth=HTTPBasicAuth(github_user, personal_github_token), headers=headers)
         if response.status_code == 204:
             print('User: %s has been followed!' % user)
+        else:
+            print(response.text)
     page += 1
 
 file_handler = open('follower_counter.txt', 'w')
