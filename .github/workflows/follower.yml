@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-and-deploy:
+  up-and-running:
     runs-on: ubuntu-latest
     steps:
       - name: Get working copy
