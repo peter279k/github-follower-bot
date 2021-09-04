@@ -27,7 +27,7 @@ jobs:
         run: |
           export github_user=peter279k
           export personal_github_token=${{ secrets.GITHUB_TOKEN }}
-          python follower_bot.py
+          pipenv run python follower_bot.py
       - name: Commit and push if it changed
         run: |
           git config user.name "peter279k"
