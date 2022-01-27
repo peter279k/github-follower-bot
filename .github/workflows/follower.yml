@@ -34,5 +34,5 @@ jobs:
           git config user.email "peter279k@gmail.com"
           git add -A
           timestamp=$(date -u)
-          git commit -m "Last Commit: ${timestamp}(TW)" || exit 0
+          git commit -m "Last Commit: ${timestamp}(UTC)" || exit 0
           git push origin master
