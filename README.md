@@ -8,6 +8,7 @@
 # Usage
 
 - Prepare the Python 3.6+.
+- Please visit the [Developer settings](https://github.com/settings/tokens) page to create a personal access token with the all of user permissions.
 - Running the `pip3 install pipenv --user` to install the pipenv.
 - Add the executable Python path via `export PATH=$PATH:/home/peter/.local/bin`.
 - Running the `pipenv install` to install required dependencies.
