@@ -1305,3 +1305,4 @@ ZENO-OPS
 wiz64
 GAMIS65
 0xCryptoAngel
+wabscale
