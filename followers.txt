@@ -1470,3 +1470,4 @@ frankdevhub
 causemx
 chardso
 KunYuChang
+devlancer-lucas
