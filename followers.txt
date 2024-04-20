@@ -2913,3 +2913,4 @@ defihook
 shrpnet
 eliumoraes
 NitrixXero
+david-t3
