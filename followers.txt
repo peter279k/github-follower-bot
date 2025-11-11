@@ -4215,3 +4215,5 @@ howlily
 wtsuccess
 Khaled-Teama
 SUCC-UBUS
+prettypasta
+ANTI-SOC1AL
